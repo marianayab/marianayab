@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @marianayab
-- 👀 An individual with a passion for technology and a flair for problem-solving.
-- 🌱 I’m currently learning BSCS 
+HI, IM MARIA NAYAB
+- 👀 An individual with a passion for technology and a flair for problem-solving
+- 🌱 I’m currently learning MySQL and Php
+- 🔭 I’m currently pursuing a BSCS
 - 📫 How to reach me mariaa.nayab001@gmail.com
 
 <!---
