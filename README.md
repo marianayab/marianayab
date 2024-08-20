@@ -1,7 +1,6 @@
 HI, IM MARIA NAYAB
 - 👀 An individual with a passion for technology and a flair for problem-solving
-- 🌱 I’m currently learning MySQL and Php
-- 🔭 I’m currently pursuing a BSCS
+- 🔭 Currently pursuing a BSCS
 - 📫 How to reach me mariaa.nayab001@gmail.com
 
 <!---
