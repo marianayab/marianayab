@@ -1,7 +1,7 @@
 HI, IM MARIA NAYAB
 - 👀 An individual with a passion for technology and a flair for problem-solving
 - 🔭 Currently pursuing a BSCS
-- 📫 How to reach me mariaa.nayab001@gmail.com
+- 📫 Reach me via mariaa.nayab001@gmail.com
 
 <!---
 marianayab/marianayab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
